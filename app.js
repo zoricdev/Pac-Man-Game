@@ -38,7 +38,7 @@ const layout = [
         // 0 - pac dots
         // 1 - wall
         // 2 - ghost-lair
-        // 3 - power-pallet
+        // 3 - power-pellet
         // 4 - empty
 
         const squares = []
